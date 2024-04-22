@@ -84,7 +84,7 @@ Time series prediction involves using historical data to forecast future values 
 
 ## References
 
-- [Scikit-learn Documentation](https://scikit-learn.org/)
+- [Kaggle Reference Code](https://www.kaggle.com/code/jphoon/bitcoin-time-series-prediction-with-lstm)
 - [TensorFlow Documentation](https://www.tensorflow.org/)
 - [Bitcoin Data Source](https://www.kaggle.com/datasets/datasets)
 
